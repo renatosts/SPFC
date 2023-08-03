@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import plotly.graph_objects as go
 
 
 def define_color(val):
@@ -12,17 +11,15 @@ def define_color(val):
         color = 'gray'
     return 'color: %s' % color
 
-def set_color_patrim(val):
-    return 'color: %s' % 'olive'
 
 def make_clickable(link):
     # target _blank to open new window
     # extract clickable text to display for your link
-    #text = link.split('=')[1]
     if link == '':
         return link
     text = 'Vídeo'
     return f'<a target="_blank" href="{link}">{text}</a>'
+
 
 @st.cache_data
 def getFile(f):
