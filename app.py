@@ -35,8 +35,8 @@ st.set_page_config(
     page_title='SPFC')
 
 
-f = 'https://raw.githubusercontent.com/renatosts/Ligalito/master/cartola.csv'
-f = 'SPFC.csv'
+f = 'https://raw.githubusercontent.com/renatosts/SPFC/main/SPFC.csv'
+#f = 'SPFC.csv'
 
 df = getFile(f)
 
