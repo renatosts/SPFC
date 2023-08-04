@@ -64,11 +64,12 @@ df.index = df.index + 1
 
 df['Placar'] = df.Pl1.astype(str) + ' x ' + df.Pl2.astype(str)
 
-for col in ['Tricolor', 'Placar', 'Adversário']:
-    df[col] = df.apply(lambda row: 
-        f'<span style="font-weight:bold; color:darkgreen">{row[col]}</span>' if row.VDE == 'V' 
-        else f'<span style="font-weight:bold; color:darkred">{row[col]}</span>' if row.VDE == 'D' 
-        else f'<span style="font-weight:bold; color:goldenrod">{row[col]}</span>', axis=1)
+if len(df) > 0:
+    for col in ['Tricolor', 'Placar', 'Adversário']:
+        df[col] = df.apply(lambda row: 
+            f'<span style="font-weight:bold; color:darkgreen">{row[col]}</span>' if row.VDE == 'V' 
+            else f'<span style="font-weight:bold; color:darkred">{row[col]}</span>' if row.VDE == 'D' 
+            else f'<span style="font-weight:bold; color:goldenrod">{row[col]}</span>', axis=1)
 
 df = df[['Data', 'Dia', 'Estádio', 'Tricolor', 'Placar', 'Adversário', 'Campeonato', 'Setor', 'Vídeo']]
 
