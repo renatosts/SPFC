@@ -13,7 +13,7 @@ def make_clickable(link):
 
 @st.cache_data
 def getFile(f):
-    return pd.read_csv(f, sep=';', thousands='.', decimal=',')
+    return pd.read_csv(f, sep=';', encoding='Latin1', thousands='.', decimal=',')
 
 st.set_page_config(
     layout='wide',
@@ -24,8 +24,8 @@ st.set_page_config(
 
 st.header('SÃO PAULO FUTEBOL CLUBE')
 
-f = 'https://raw.githubusercontent.com/renatosts/SPFC/main/SPFC.csv'
-#f = 'SPFC.csv'
+f = 'https://raw.githubusercontent.com/renatosts/SPFC/main/CSV/SPFC.csv'
+#f = r'.\CSV\SPFC.csv'
 
 df = getFile(f)
 
@@ -34,6 +34,10 @@ df['data'] = pd.to_datetime(df['Data'], dayfirst=True)
 df = df.sort_values('data', ascending=False)
 
 df['Dia'] = df['Dia'].str.capitalize()
+
+df['VDE'] = 'E'
+df.loc[df.Pl1 > df.Pl2, 'VDE'] = 'V'
+df.loc[df.Pl1 < df.Pl2, 'VDE'] = 'D'
 
 camp = df['Campeonato'].drop_duplicates().sort_values()
 
