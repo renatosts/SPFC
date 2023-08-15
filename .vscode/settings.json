@@ -14,5 +14,10 @@
             "username": "admin"
         }
     ],
-    "python.analysis.typeCheckingMode": "basic"
+    "python.analysis.typeCheckingMode": "basic",
+    "python.terminal.activateEnvInCurrentTerminal": true,
+    "python.terminal.activateEnvironment": false,
+    "terminal.integrated.automationProfile.windows": {},
+    "terminal.integrated.defaultProfile.windows": "PowerShell",
+    "python.terminal.focusAfterLaunch": false
 }
