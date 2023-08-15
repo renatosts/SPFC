@@ -1,9 +1,6 @@
-import locale
 import pandas as pd
 import streamlit as st
 from PIL import Image
-
-locale.setlocale(locale.LC_TIME, 'Portuguese_Brazil.1252')
 
 def make_clickable(link):
     # target _blank to open new window
@@ -35,7 +32,7 @@ df['data'] = pd.to_datetime(df['Data'], dayfirst=True)
 
 df = df.sort_values('data', ascending=False)
 
-df['Data'] = df.data.dt.strftime('%d/%m/%Y - ') + df.data.dt.strftime('%a').str.capitalize()
+df['Data'] = df.data.dt.strftime('%d/%m/%Y - ') + df.Dia.str.capitalize()
 
 df['VDE'] = 'E'
 df.loc[df.Pl1 > df.Pl2, 'VDE'] = 'V'
