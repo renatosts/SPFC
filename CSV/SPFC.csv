@@ -1,12 +1,12 @@
 Data;Dia;Estádio;Tricolor;Pl1;Pl2;Adversário;Campeonato;Setor;Vídeo
-18/02/2017;18/02/2017;Morumbi;São Paulo F.C.;2;2;Mirassol;Paulista;Cativa;
-18/03/2017;18/03/2017;Morumbi;São Paulo F.C.;1;1;Ituano;Paulista;Cativa;
-14/10/2017;14/10/2017;Pacaembu;São Paulo F.C.;2;1;Athletico-PR;Brasileiro;Numerada;
-22/10/2017;22/10/2017;Morumbi;São Paulo F.C.;2;0;Flamengo;Brasileiro;Numerada;
-09/11/2017;09/11/2017;Morumbi;São Paulo F.C.;2;2;Chapecoense;Brasileiro;Numerada;
-21/07/2018;21/07/2018;Morumbi;São Paulo F.C.;3;1;Corinthians;Brasileiro;Cativa;
-05/08/2018;05/08/2018;Morumbi;São Paulo F.C.;2;1;Vasco;Brasileiro;Cativa;
-19/08/2018;19/08/2018;Morumbi;São Paulo F.C.;2;0;Chapecoense;Brasileiro;Cativa;
+18/02/2017;18/02/2017;Morumbi;São Paulo F.C.;2;2;Mirassol;Paulista;Cativa;https://www.youtube.com/watch?v=fY9wcmoyu1Y
+18/03/2017;18/03/2017;Morumbi;São Paulo F.C.;1;1;Ituano;Paulista;Cativa;https://www.youtube.com/watch?v=KaYkOIh0ij0
+14/10/2017;14/10/2017;Pacaembu;São Paulo F.C.;2;1;Athletico-PR;Brasileiro;Numerada;https://www.youtube.com/watch?v=I6DtK8Iu8Yo
+22/10/2017;22/10/2017;Morumbi;São Paulo F.C.;2;0;Flamengo;Brasileiro;Numerada;https://www.youtube.com/watch?v=V--nC_EeVJ8
+09/11/2017;09/11/2017;Morumbi;São Paulo F.C.;2;2;Chapecoense;Brasileiro;Numerada;https://www.youtube.com/watch?v=HA3DsWOi4eY
+21/07/2018;21/07/2018;Morumbi;São Paulo F.C.;3;1;Corinthians;Brasileiro;Cativa;https://www.youtube.com/watch?v=r7LkQPoLQHQ
+05/08/2018;05/08/2018;Morumbi;São Paulo F.C.;2;1;Vasco;Brasileiro;Cativa;https://www.youtube.com/watch?v=VsiPiS7uj_o
+19/08/2018;19/08/2018;Morumbi;São Paulo F.C.;2;0;Chapecoense;Brasileiro;Cativa;https://www.youtube.com/watch?v=MCLRxGtvKh8
 02/09/2018;02/09/2018;Morumbi;São Paulo F.C.;1;1;Fluminense;Brasileiro;Cativa;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/02-09-2018/sao-paulo-fluminense.ghtml?video=6991104&utm_source=google&utm_medium=onebox
 08/09/2018;08/09/2018;Morumbi;São Paulo F.C.;1;0;Bahia;Brasileiro;Cativa;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/08-09-2018/sao-paulo-bahia.ghtml?video=7006664&utm_source=google&utm_medium=onebox
 22/09/2018;22/09/2018;Morumbi;São Paulo F.C.;1;1;América-MG;Brasileiro;Cativa;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/22-09-2018/sao-paulo-america-mg.ghtml?video=7037525&utm_source=google&utm_medium=onebox
@@ -17,13 +17,13 @@ Data;Dia;Estádio;Tricolor;Pl1;Pl2;Adversário;Campeonato;Setor;Vídeo
 18/11/2018;18/11/2018;Morumbi;São Paulo F.C.;1;0;Cruzeiro;Brasileiro;Cativa;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/18-11-2018/sao-paulo-cruzeiro.ghtml?video=7170190&utm_source=google&utm_medium=onebox
 26/11/2018;26/11/2018;Morumbi;São Paulo F.C.;0;0;Sport;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/26-11-2018/sao-paulo-sport.ghtml?video=7189588&utm_source=google&utm_medium=onebox
 13/02/2019;13/02/2019;Morumbi;São Paulo F.C.;0;0;Club Atlético Talleres-ARG;Libertadores;Cativa;https://www.youtube.com/watch?v=qBirXl2O35Y&feature=onebox
-16/03/2019;16/03/2019;Morumbi;São Paulo F.C.;0;1;Palmeiras;Paulista;Arquibancada;
-24/03/2019;24/03/2019;Morumbi;São Paulo F.C.;2;1;Ituano;Paulista;Arquibancada;
-30/03/2019;30/03/2019;Morumbi;São Paulo F.C.;0;0;Palmeiras;Paulista;Arquibancada;
+16/03/2019;16/03/2019;Morumbi;São Paulo F.C.;0;1;Palmeiras;Paulista;Arquibancada;https://www.youtube.com/watch?v=rsSyDIWesHk
+24/03/2019;24/03/2019;Morumbi;São Paulo F.C.;2;1;Ituano;Paulista;Arquibancada;https://www.youtube.com/watch?v=6ZYHOuS5H00
+30/03/2019;30/03/2019;Morumbi;São Paulo F.C.;0;0;Palmeiras;Paulista;Arquibancada;https://www.youtube.com/watch?v=IyA3hi4lhlc
 27/04/2019;27/04/2019;Morumbi;São Paulo F.C.;2;0;Botafogo-RJ;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/27-04-2019/sao-paulo-botafogo.ghtml?video=7573748&utm_source=google&utm_medium=onebox
 05/05/2019;05/05/2019;Morumbi;São Paulo F.C.;1;1;Flamengo;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/05-05-2019/sao-paulo-flamengo.ghtml?video=75924654&utm_source=google&utm_medium=onebox
 19/05/2019;19/05/2019;Morumbi;São Paulo F.C.;0;0;Bahia;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/19-05-2019/sao-paulo-bahia.ghtml?video=7627174&utm_source=google&utm_medium=onebox
-22/05/2019;22/05/2019;Morumbi;São Paulo F.C.;0;1;Bahia;Copa do Brasil;Arquibancada;
+22/05/2019;22/05/2019;Morumbi;São Paulo F.C.;0;1;Bahia;Copa do Brasil;Arquibancada;https://www.youtube.com/watch?v=Wc8-WztYMhU
 13/07/2019;13/07/2019;Morumbi;São Paulo F.C.;1;1;Palmeiras;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/13-07-2019/sao-paulo-palmeiras.ghtml?video=77637988&utm_source=google&utm_medium=onebox
 22/07/2019;22/07/2019;Morumbi;São Paulo F.C.;4;0;Chapecoense;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/22-07-2019/sao-paulo-chapecoense.ghtml?video=7784998&utm_source=google&utm_medium=onebox
 15/09/2019;15/09/2019;Morumbi;São Paulo F.C.;1;1;CSA;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/15-09-2019/sao-paulo-csa-al.ghtml?video=7925285&utm_source=google&utm_medium=onebox
@@ -34,44 +34,44 @@ Data;Dia;Estádio;Tricolor;Pl1;Pl2;Adversário;Campeonato;Setor;Vídeo
 07/11/2019;07/11/2019;Morumbi;São Paulo F.C.;0;2;Fluminense;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/07-11-2019/sao-paulo-fluminense.ghtml?video=8070103&utm_source=google&utm_medium=onebox
 10/11/2019;10/11/2019;Morumbi;São Paulo F.C.;0;1;Athletico-PR;Brasileiro;Arquibancada;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/10-11-2019/sao-paulo-atletico-pr.ghtml?video=8076039utm_source=google&utm_medium=onebox
 04/12/2019;04/12/2019;Morumbi;São Paulo F.C.;2;1;Internacional;Brasileiro;Cativa;https://globoesporte.globo.com/sp/futebol/brasileirao-serie-a/jogo/04-12-2019/sao-paulo-internacional.ghtml?video=8140586&utm_source=google&utm_medium=onebox
-15/02/2020;15/02/2020;Morumbi;São Paulo F.C.;0;0;Corinthians;Paulista;Arquibancada;
-01/03/2020;01/03/2020;Morumbi;São Paulo F.C.;2;1;Ponte Preta;Paulista;Arquibancada;
+15/02/2020;15/02/2020;Morumbi;São Paulo F.C.;0;0;Corinthians;Paulista;Arquibancada;https://www.youtube.com/watch?v=qpOljPXNMTw
+01/03/2020;01/03/2020;Morumbi;São Paulo F.C.;2;1;Ponte Preta;Paulista;Arquibancada;https://www.youtube.com/watch?v=oapNp4uE4SM
 11/03/2020;11/03/2020;Morumbi;São Paulo F.C.;3;0;LDU-EQU;Libertadores;Arquibancada;https://www.youtube.com/watch?v=KEC2E1tCM1U
-14/10/2021;14/10/2021;Morumbi;São Paulo F.C.;1;1;Ceará;Brasileiro;Arquibancada;
-31/10/2021;31/10/2021;Morumbi;São Paulo F.C.;1;0;Internacional;Brasileiro;Arquibancada;
-14/11/2021;14/11/2021;Morumbi;São Paulo F.C.;0;4;Flamengo;Brasileiro;Numerada;
-24/11/2021;24/11/2021;Morumbi;São Paulo F.C.;0;0;Athletico-PR;Brasileiro;Arquibancada;
-06/12/2021;06/12/2021;Morumbi;São Paulo F.C.;3;1;Juventude;Brasileiro;Arquibancada;
+14/10/2021;14/10/2021;Morumbi;São Paulo F.C.;1;1;Ceará;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=43_7-w-F9L8
+31/10/2021;31/10/2021;Morumbi;São Paulo F.C.;1;0;Internacional;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=_sfOVwRrIfs
+14/11/2021;14/11/2021;Morumbi;São Paulo F.C.;0;4;Flamengo;Brasileiro;Numerada;https://www.youtube.com/watch?v=ZzHAFwtMA5c
+24/11/2021;24/11/2021;Morumbi;São Paulo F.C.;0;0;Athletico-PR;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=_KEsgkSy9F0
+06/12/2021;06/12/2021;Morumbi;São Paulo F.C.;3;1;Juventude;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=mZx1d6YUNgE
 17/02/2022;17/02/2022;Morumbi;São Paulo F.C.;0;0;Inter de Limeira;Paulista;Arquibancada;https://www.youtube.com/watch?v=km17u7m6TWE&feature=onebox
-16/03/2022;16/03/2022;Morumbi;São Paulo F.C.;2;0;Manaus;Copa do Brasil;Arquibancada;
+16/03/2022;16/03/2022;Morumbi;São Paulo F.C.;2;0;Manaus;Copa do Brasil;Arquibancada;https://www.youtube.com/watch?v=BrdHzQGQ1Mw
 19/03/2022;19/03/2022;Morumbi;São Paulo F.C.;2;1;Botafogo-SP;Paulista;Arquibancada;https://www.youtube.com/watch?v=O6L_lXVNLh0&feature=onebox
 22/03/2022;22/03/2022;Morumbi;São Paulo F.C.;4;1;São Bernardo;Paulista;Arquibancada;https://www.youtube.com/watch?v=ZfrjalHJbmA&feature=onebox
 30/03/2022;30/03/2022;Morumbi;São Paulo F.C.;3;1;Palmeiras;Paulista;Arquibancada;https://www.youtube.com/watch?v=ZPjWPEpSW_A&feature=onebox
-10/04/2022;10/04/2022;Morumbi;São Paulo F.C.;4;0;Athletico-PR;Brasileiro;Arquibancada;
+10/04/2022;10/04/2022;Morumbi;São Paulo F.C.;4;0;Athletico-PR;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=d4wJKwL46Cw
 14/04/2022;14/04/2022;Morumbi;São Paulo F.C.;2;0;Everton-CHI;Sul-Americana;Arquibancada;https://www.youtube.com/watch?v=eEtoY_aHJG4&feature=onebox
 02/05/2022;02/05/2022;Morumbi;São Paulo F.C.;2;1;Santos;Brasileiro;Arquibancada;https://ge.globo.com/futebol/brasileirao-serie-a/stories/2022/05/02/sao-paulo-x-santos.ghtml?utm_source=google&utm_medium=onebox
-15/05/2022;15/05/2022;Morumbi;São Paulo F.C.;2;1;Cuiabá;Brasileiro;Arquibancada;
+15/05/2022;15/05/2022;Morumbi;São Paulo F.C.;2;1;Cuiabá;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=8MBeTyenz9U
 19/05/2022;19/05/2022;Morumbi;São Paulo F.C.;3;0;Jorge Wilstermann-BOL;Sul-Americana;Arquibancada;https://www.youtube.com/watch?v=CgtyAIt6GFQ&feature=onebox
-28/05/2022;28/05/2022;Morumbi;São Paulo F.C.;2;2;Ceará;Brasileiro;Arquibancada;
-12/06/2022;12/06/2022;Morumbi;São Paulo F.C.;1;0;América-MG;Brasileiro;Arquibancada;
-20/06/2022;20/06/2022;Morumbi;São Paulo F.C.;1;2;Palmeiras;Brasileiro;Arquibancada;
-23/06/2022;23/06/2022;Morumbi;São Paulo F.C.;1;0;Palmeiras;Copa do Brasil;Arquibancada;
-26/06/2022;26/06/2022;Morumbi;São Paulo F.C.;0;0;Juventude;Brasileiro;Arquibancada;
+28/05/2022;28/05/2022;Morumbi;São Paulo F.C.;2;2;Ceará;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=KNYw-UY0qBs
+12/06/2022;12/06/2022;Morumbi;São Paulo F.C.;1;0;América-MG;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=8W0WcYjLr7I
+20/06/2022;20/06/2022;Morumbi;São Paulo F.C.;1;2;Palmeiras;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=HBKQVQ62cVs
+23/06/2022;23/06/2022;Morumbi;São Paulo F.C.;1;0;Palmeiras;Copa do Brasil;Arquibancada;https://www.youtube.com/watch?v=2RR0BqaAntI
+26/06/2022;26/06/2022;Morumbi;São Paulo F.C.;0;0;Juventude;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=RZNK0spvW7Q
 07/07/2022;07/07/2022;Morumbi;São Paulo F.C.;4;1;Universidad Católica-CHI;Sul-Americana;Arquibancada;https://www.youtube.com/watch?v=eZ9vgMYhA8w&feature=onebox
-17/07/2022;17/07/2022;Morumbi;São Paulo F.C.;2;2;Fluminense;Brasileiro;Arquibancada;
-23/07/2022;23/07/2022;Morumbi;São Paulo F.C.;3;3;Goiás;Brasileiro;Arquibancada;
+17/07/2022;17/07/2022;Morumbi;São Paulo F.C.;2;2;Fluminense;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=M4DZWWTA634
+23/07/2022;23/07/2022;Morumbi;São Paulo F.C.;3;3;Goiás;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=puSbaKFvp1U
 28/07/2022;28/07/2022;Morumbi;São Paulo F.C.;1;0;América-MG;Copa do Brasil;Arquibancada;https://ge.globo.com/sp/futebol/copa-do-brasil/jogo/28-07-2022/sao-paulo-america-mg.ghtml?video=10801302&utm_source=google&utm_medium=onebox#tr-video
 03/08/2022;03/08/2022;Morumbi;São Paulo F.C.;1;0;Ceará;Sul-Americana;Cativa;https://www.youtube.com/watch?v=YQ4uh0KHcDQ&feature=onebox
 06/08/2022;06/08/2022;Morumbi;São Paulo F.C.;0;2;Flamengo;Copa do Brasil;Arquibancada;https://webstories.ge.globo.com/games/18841-06-08-22-So-Paulo-vs-Flamengo.html
 24/08/2022;24/08/2022;Morumbi;São Paulo F.C.;1;3;Flamengo;Copa do Brasil;Arquibancada;https://ge.globo.com/sp/futebol/copa-do-brasil/jogo/24-08-2022/sao-paulo-flamengo.ghtml?video=10879416
-28/08/2022;28/08/2022;Morumbi;São Paulo F.C.;0;1;Fortaleza;Brasileiro;Arquibancada;
+28/08/2022;28/08/2022;Morumbi;São Paulo F.C.;0;1;Fortaleza;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=p7Hs10bLY68
 08/09/2022;08/09/2022;Morumbi;São Paulo F.C.;2;0;Atlético-GO;Sul-Americana;Arquibancada;https://www.youtube.com/watch?v=zEQnn74imzg&feature=onebox
-11/09/2022;11/09/2022;Morumbi;São Paulo F.C.;1;1;Corinthians;Brasileiro;Arquibancada;
-25/09/2022;25/09/2022;Morumbi;São Paulo F.C.;4;0;Avaí;Brasileiro;Numerada;
-09/10/2022;09/10/2022;Morumbi;São Paulo F.C.;0;1;Botafogo-RJ;Brasileiro;Arquibancada;
-20/10/2022;20/10/2022;Morumbi;São Paulo F.C.;3;1;Coritiba;Brasileiro;Arquibancada;
-01/11/2022;01/11/2022;Morumbi;São Paulo F.C.;2;2;Atlético-MG;Brasileiro;Arquibancada;
-08/11/2022;08/11/2022;Morumbi;São Paulo F.C.;0;1;Internacional;Brasileiro;Arquibancada;
+11/09/2022;11/09/2022;Morumbi;São Paulo F.C.;1;1;Corinthians;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=whD2Eb7oeys
+25/09/2022;25/09/2022;Morumbi;São Paulo F.C.;4;0;Avaí;Brasileiro;Numerada;https://www.youtube.com/watch?v=Xkkwqt1xXPo
+09/10/2022;09/10/2022;Morumbi;São Paulo F.C.;0;1;Botafogo-RJ;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=SGZQEyu6C3o
+20/10/2022;20/10/2022;Morumbi;São Paulo F.C.;3;1;Coritiba;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=UUiO1YiAc2k
+01/11/2022;01/11/2022;Morumbi;São Paulo F.C.;2;2;Atlético-MG;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=LfhlXBXEXI8
+08/11/2022;08/11/2022;Morumbi;São Paulo F.C.;0;1;Internacional;Brasileiro;Arquibancada;https://www.youtube.com/watch?v=K8e7H62mMN8
 15/01/2023;15/01/2023;Morumbi;São Paulo F.C.;0;0;Ituano;Paulista;Arquibancada;https://www.youtube.com/watch?v=RtLunSYQYsY&feature=onebox
 26/01/2023;26/01/2023;Morumbi;São Paulo F.C.;4;1;Portuguesa;Paulista;Numerada;https://www.youtube.com/watch?v=kjq4MP_gimw&feature=onebox
 29/01/2023;29/01/2023;Morumbi;São Paulo F.C.;1;2;Corinthians;Paulista;Arquibancada;https://www.youtube.com/watch?v=6haIBI_zD9E&feature=onebox
