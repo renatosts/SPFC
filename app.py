@@ -32,7 +32,7 @@ df['data'] = pd.to_datetime(df['Data'], dayfirst=True)
 
 df = df.sort_values('data', ascending=False)
 
-df['Data'] = df.data.dt.strftime('%d/%m/%Y - ') + df.Dia.str.capitalize()
+df['Data'] = df.data.dt.strftime('%d/%m/%Y')
 
 df['VDE'] = 'E'
 df.loc[df.Pl1 > df.Pl2, 'VDE'] = 'V'
